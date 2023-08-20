@@ -1,0 +1,52 @@
+body
+{
+	background: rgb(77,0,50);
+}
+
+#LOGIN_form h1
+{
+  text-align: center;
+  border-radius: 950px;
+  border-top: 600px;
+  color: yellow;
+  background: black;
+}
+
+#text
+{
+   color: lightblue;
+   font-size: 20px;
+}
+
+#username
+{
+   color: black;
+   font-size: 20px;
+   width: 300px;
+}
+
+#password
+{
+   color: black;
+   font-size: 20px;
+   width: 300px;
+}
+
+#usertype
+{
+   color: lightblue;
+   font-size: 20px;
+}
+
+#submit
+{
+   background: black;
+   color: white;
+   font-family: cursive;
+   font-size: 30px;
+}
+
+#lin1
+{
+   background: lightblue;
+}

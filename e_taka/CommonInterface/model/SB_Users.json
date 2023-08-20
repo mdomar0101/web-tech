@@ -1,0 +1,35 @@
+[
+    {
+        "fullname": "omar faruk",
+        "user_name": "omar",
+        "password": "omar-123",
+        "email": "mdomar0101@gmail.com",
+        "usertype": "admin",
+        "gender": "male",
+        "education": "HSC",
+        "Nationality": "bd",
+        "ProfilePicture": "b1.PNG"
+    },
+    {
+        "fullname": "omar faruk",
+        "user_name": "omarr",
+        "password": "omar-123",
+        "email": "mdomar0101@gmail.com",
+        "usertype": "banker",
+        "gender": "male",
+        "education": "HSC",
+        "Nationality": "bd",
+        "ProfilePicture": "b3.PNG"
+    },
+    {
+        "fullname": "omar faruk",
+        "user_name": "omar",
+        "password": "omar-123",
+        "email": "mdomar0101@gmail.com",
+        "usertype": "AH",
+        "gender": "male",
+        "education": "BSC",
+        "Nationality": "bd",
+        "ProfilePicture": "1.png.png"
+    }
+]

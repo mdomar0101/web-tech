@@ -1,0 +1,112 @@
+body
+{
+	background: rgb(158,0,255);
+}
+
+#cna h1
+{
+  text-align: center;
+  border-radius: 1350px;
+  border-top: 1000px;
+  color: yellow;
+  background: black;
+}
+
+#colr
+{
+   color: yellow;
+   font-size: 20px;
+	font-family: High Tower Text;
+}
+
+#text
+{
+   color: lightblue;
+   font-size: 20px;
+}
+
+#fullname
+{
+   color: black;
+   font-size: 20px;
+	font-family: Palatino Linotype;
+   width: 500px;
+}
+
+#username
+{
+   color: black;
+   font-size: 20px;
+	font-family: Palatino Linotype;
+   width: 500px;
+}
+
+#password
+{
+   color: black;
+   font-size: 20px;
+	font-family: Palatino Linotype;
+   width: 500px;
+}
+
+#confirmpassword
+{
+   color: black;
+   font-size: 20px;
+	font-family: Palatino Linotype;
+   width: 500px;
+}
+
+#email
+{
+   color: black;
+   font-size: 20px;
+	font-family: Palatino Linotype;
+   width: 500px;
+}
+
+#usertype
+{
+   color: lightblue;
+   font-size: 20px;
+	font-family: High Tower Text;
+}
+
+#gender
+{
+   color: lightblue;
+   font-size: 20px;
+	font-family: High Tower Text;
+}
+
+#education
+{
+   color: lightblue;
+   font-size: 20px;
+	font-family: High Tower Text;
+}
+
+#nationality
+{
+   color: lightblue;
+   font-size: 20px;
+}
+
+#dp
+{
+   color: lightblue;
+   font-size: 20px;
+}
+
+#submit
+{
+   background: black;
+   color: white;
+   font-family: Algerian;
+   font-size: 25px;
+}
+
+#lin1
+{
+   background: lightblue;
+}
